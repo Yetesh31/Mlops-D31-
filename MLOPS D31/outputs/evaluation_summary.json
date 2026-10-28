@@ -1,0 +1,8 @@
+{
+  "dataset_rows": 891,
+  "train_rows": 712,
+  "test_rows": 179,
+  "accuracy": 0.8156424581005587,
+  "online_prediction": 0,
+  "online_result": "Did Not Survive"
+}

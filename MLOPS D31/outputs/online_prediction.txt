@@ -1,0 +1,2 @@
+Online inference example (first held-out test record)\n\nPclass  Sex   Age SibSp Parch   Fare Embarked
+     3 male  24.0     2     0  24.15        S\n\nPrediction: 0\nResult: Did Not Survive\n
